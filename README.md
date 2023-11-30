@@ -1,4 +1,4 @@
-# Recarga_Hídrica
+# Recarga Hídrica
 
 Groundwater's significance in sustaining human consumption and agriculture across Bolivia underscores its critical role. However, the absence of regulatory policies governing extraction and safeguarding recharge areas has led to plummeting water tables, imperiling food security [@helvetas2014]. While some local initiatives aim to establish regulations, the lack of reliable hydrogeological data obstructs effective implementation.
 
